@@ -70,7 +70,7 @@ export function Subscribe() {
         </div>
       </div>
 
-      <img src="/src/assets/code-mockup.png" alt="Ilustração de código em React" />
+      <img src="../assets/code-mockup.png" alt="Ilustração de código em React" />
     </div>
   )
 }
