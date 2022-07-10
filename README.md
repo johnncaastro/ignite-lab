@@ -2,7 +2,7 @@
   ignite lab | ReactJS
 </h1>
 
-![ignite-lab](https://i.ibb.co/M6DM341/subscriber-ignite-lab.png)
+![ignite-lab](https://github.com/johnncaastro/ignite-lab/blob/main/.github/subscriber-ignite-lab.png)
 
 ## :page_with_curl: Sobre
 
@@ -52,7 +52,7 @@ Em seguida insira o comando abaixo para iniciar a aplicação:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/letmeask/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/ignite-lab/blob/main/LICENSE) para mais detalhes.
 
 ---
 
