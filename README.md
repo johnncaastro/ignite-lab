@@ -1,14 +1,16 @@
 <h1 align="center">
-  <img alt="logo" src="https://i.ibb.co/9wJ3ZbX/logo-ignite-lab.png" />
-  <br>
-  Aplicação para servir como uma plataforma de evento online
+  ignite lab | ReactJS
 </h1>
 
-<h4 align="center">
-  Projeto desenvolvido durante o evento Ignite Lab promovido pela Rocketseat
-</h4>
-
 ![ignite-lab](https://i.ibb.co/M6DM341/subscriber-ignite-lab.png)
+
+## :page_with_curl: Sobre
+
+O ignite lab | ReactJS é um projeto que tem como objetivo construir uma plataforma de evento online, que servirá conteúdos em formato de vídeo utilizando GraphQL
+
+## :computer: Projeto
+
+Acesse o projeto clicando [aqui](https://ignite-lab-six-omega.vercel.app/). :+1:
 
 ## 🚀 Tecnologias
 
@@ -28,29 +30,35 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⭐ Funcionalidades acrescentadas
 
-As funcionalidades acrescentadas no projeto foram responsividade, o restante das aulas do evento no cronograma e o controle de visualização dos conteúdos conforme a data e hora previstas.
-
-## :computer: Visitando
-
-Acesse o projeto clicando [aqui](https://ignite-lab-six-omega.vercel.app/). :+1:
+- Responsividade
+- Adição de mais vídeos
+- Controle de visualização dos vídeos conforme a data e hora previstas
 
 ## 👷 Instalação
 
-**Você precisa instalar o [Node.js](https://nodejs.org/en/) e clonar o repositório com o seguinte comando no prompt:**
+Clone o repositório com o seguinte comando no seu terminal (Você precisa ter o [Node.js](https://nodejs.org/en/) e o [Git](https://git-scm.com/) instalados no seu computador).
 
 ```git clone https://github.com/johnncaastro/ignite-lab.git```
 
-**Instalando dependências**
+Instale as dependências para o funcionamento do projeto
 
 ```npm install```
 
 ## 🏃 Começando
 
-Em seguida rode o seguinte comando para iniciar a aplicação no ambiente de desenvolvimento:
+Em seguida insira o comando abaixo para iniciar a aplicação:
 
 ```npm run dev```
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/letmeask/blob/main/LICENSE) para mais detalhes.
+
 ---
+
+<p align="center">
+  Projeto desenvolvido durante o evento ignite Lab promovido pela Rocketseat na direção de Diego Fernandes
+</p>
 
 Feito com ♥ por Johnn Castro :wave: [Entre em contato!](https://www.linkedin.com/in/jonathan-castro-alves/)
 
